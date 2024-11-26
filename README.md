@@ -169,6 +169,17 @@ By focusing on these areas, I can further enhance the lab’s functionality and 
     
 
 <h1>Sources</h1>
+<ul>
+    <li>Get started with Amazon EC2 - AWS Documentation. (n.d.). https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html
+    </li>
+    <li>James, I. O. (2024, May 19). Resolving error: 0x8007019e The windows subsystem for linux has not been enabled. Medium. https://medium.com/@osaswijojames/resolving-error-0x8007019e-the-windows-subsystem-for-linux-has-not-been-enabled-4cdac4708b17
+    </li>
+    <li>Setting up RDP with Xfce: Kali linux documentation. Kali Linux. (2024, March 1). https://www.kali.org/docs/general-use/xfce-with-rdp/ 
+    </li>
+    <li>YouTube. (n.d.). YouTube. https://www.youtube.com/watch?v=2cMkpLoKUj0&list=WL&index=14
+    </li>
+    <li>https://www.youtube.com/watch?v=9NWTcumxf-4</li>
+</ul>
 
 
     
